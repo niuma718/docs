@@ -21,19 +21,60 @@
     "global": {
       "anchors": []
     },
-    "groups": [
+    "tabs": [
       {
-        "group": "快速开始",
-        "pages": [
-          "untitled-page",
-          "home/index",
-          "home/quickstart"
+        "tab": "软件功能介绍",
+        "groups": [
+          {
+            "group": "快速开始",
+            "pages": [
+              "untitled-page",
+              "home/index",
+              "home/quickstart"
+            ]
+          },
+          {
+            "group": "功能介绍",
+            "pages": [
+              {
+                "group": "基础功能",
+                "pages": []
+              },
+              {
+                "group": "批量群发",
+                "pages": []
+              },
+              {
+                "group": "群组监听 & 自动处理",
+                "pages": []
+              },
+              {
+                "group": "自动炒群",
+                "pages": []
+              }
+            ]
+          }
         ]
       },
       {
-        "group": "更新记录",
+        "tab": "发布记录",
+        "groups": [
+          {
+            "group": "更新记录",
+            "pages": [
+              "untitled-page-2"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "最佳实践"
+      },
+      {
+        "tab": "飞机知识",
         "pages": [
-          "untitled-page-2"
+          "untitled-page-3",
+          "untitled-page-4"
         ]
       }
     ]
