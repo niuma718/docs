@@ -26,8 +26,14 @@
         "group": "快速开始",
         "pages": [
           "untitled-page",
-          "index",
-          "quickstart"
+          "home/index",
+          "home/quickstart"
+        ]
+      },
+      {
+        "group": "更新记录",
+        "pages": [
+          "untitled-page-2"
         ]
       }
     ]
