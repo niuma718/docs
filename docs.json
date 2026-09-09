@@ -28,9 +28,7 @@
           {
             "group": "快速开始",
             "pages": [
-              "home/untitled-page",
-              "home/index",
-              "home/quickstart"
+              "home/untitled-page"
             ]
           },
           {
@@ -38,11 +36,15 @@
             "pages": [
               {
                 "group": "基础功能",
-                "pages": []
+                "pages": [
+                  "home/index"
+                ]
               },
               {
                 "group": "批量群发",
-                "pages": []
+                "pages": [
+                  "home/quickstart"
+                ]
               },
               {
                 "group": "群组监听 & 自动处理",
@@ -58,13 +60,8 @@
       },
       {
         "tab": "发布记录",
-        "groups": [
-          {
-            "group": "更新记录",
-            "pages": [
-              "变更记录/untitled-page-2"
-            ]
-          }
+        "pages": [
+          "changelog/untitled-page-2"
         ]
       },
       {
