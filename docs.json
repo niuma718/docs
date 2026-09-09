@@ -21,9 +21,9 @@
     "global": {
       "anchors": []
     },
-    "dropdowns": [
+    "tabs": [
       {
-        "dropdown": "软件功能介绍",
+        "tab": "软件功能介绍",
         "groups": [
           {
             "group": "快速开始",
@@ -57,7 +57,7 @@
         ]
       },
       {
-        "dropdown": "发布记录",
+        "tab": "发布记录",
         "groups": [
           {
             "group": "更新记录",
@@ -68,10 +68,10 @@
         ]
       },
       {
-        "dropdown": "最佳实践"
+        "tab": "最佳实践"
       },
       {
-        "dropdown": "飞机知识",
+        "tab": "飞机知识",
         "pages": [
           "untitled-page-3",
           "untitled-page-4"
